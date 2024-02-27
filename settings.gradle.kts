@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "SimpleAar"
 include(":app")
 include(":mylibrary")
+include(":sdk-a")
+include(":sdk-b")
