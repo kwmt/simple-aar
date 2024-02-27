@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SimpleAar"
 include(":app")
+include(":mylibrary")
